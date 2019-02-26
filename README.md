@@ -51,7 +51,8 @@ the following actions:
 
 ## How to run the code
 
-Simply type the following:
+After starting the ACT-R environment and loading "response-monkey" or another model, 
+simply type the following:
 
 ```
 > import stroop
